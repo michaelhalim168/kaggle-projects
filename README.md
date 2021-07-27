@@ -1,3 +1,3 @@
 # Data Analytics Personal Projects
 
-Mini-projects from Kaggle!
+The following are some mini-projects I completed throughout bootcamp! 
