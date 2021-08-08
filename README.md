@@ -1,3 +1,3 @@
-# Data Analytics Personal Projects
+# Kaggle Projects
 
-The following are some mini-projects I completed throughout bootcamp! 
+A repository containing Kaggle projects to keep my data science skillsets fresh!
